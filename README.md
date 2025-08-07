@@ -52,7 +52,7 @@ KiTaCon ist eine **Windows Forms App**, die die Kommunikation zwischen Kindertag
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=55Umut&color=blue" alt="Profile Views" />
+
   <br><br>
   <b>Danke fürs Vorbeischauen! 👋</b><br>
   <i>Feedback und Beiträge zur KiTaCon-App sind willkommen!</i>
